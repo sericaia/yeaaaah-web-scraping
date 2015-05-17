@@ -1,0 +1,15 @@
+{
+  "name": "yeaaaah-web-scraping",
+  "version": "0.0.0",
+  "description": "web scraping yeaaaah website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cheerio": "~0.19.0",
+    "request": "~2.55.0"
+  }
+}
